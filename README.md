@@ -1,25 +1,49 @@
-# Follow the journey of your trash! 🥫🍌🥛📰🥡
+# Life of Litter 🥫🍌🥛📰🥡
 
-We wanted everyone to know exactly where things go when they throw them away. What's the benefit of recycling? How long do things sit in a landfill before decomposing? Through this game, we hope to educate people on where exactly their trash goes when they throw it away, and how to make the Earth a cleaner place by Recycling!
+A web-based game about the life of litter.
 
-## What it does
+---
+---
 
-Start the game by choosing an adorable icon, and follow it through its life cycle! You get to choose where it goes: the trash, the recycling plant, or the compost. Then learn exactly what happens to it when you send it there. Follow it through the recycling process, discover if it's compostable, and find out just how long it stays in the landfill. Unlock new icons by selecting the correct path for each item! Each time you get it right, a new icon becomes available.
+**[Hacking for Humanity](https://gitvan2019.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover)** was a 2-day code-a-thon where participants, entrepreneurs, educators, and mentors worked together to build apps that solve social problems.
 
-## What we learned
+> **2019 Challenge Statement** How might we use technology to educate and connect people to the natural world?
 
-Our group learned a lot about where ones trash actually travels. It was surprisingly difficult to find out where exactly garbage goes, and the information is in a bunch of different places. Having one place to access all of the info will help to educate people on how to recycle properly, and have fun doing it!
+## Inspiration
 
-## Built With
+We wanted everyone to know exactly where things go when they are thrown away, and how to make the earch a cleaner place by recycling. 
+- What's the benefit of recycling? 
+- How long do things sit in a landfill before decomposing? 
 
-React, Material UI, and Sketch (for the icons)
+## Setup
 
-## Run
+### Installation
+```bash
+npm install
+```
+#### Run
+```bash
+npm start
+```
 
-`npm start`
+## Gameplay
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Sign up or log in to play the game.
+1. Start the game by choosing a litter character, and follow it through its life cycle.
+2. Choose which bin it goes into and learn what happens to it:
+    - Trash 
+    - Compost
+    - Recycling
+3. Unlock new litter characters by selecting the correct path.
+
+## Technologies Used
+- React
+- Material UI
+- Sketch (Litter Characters)
+
+## Personal Learnings
+
+Our group learned a lot about the life cycle of litter. It was surprisingly difficult to find out where different types of litter goes. Having one place to access all of the info will help educate people on how to recycle properly, and have fun doing it!
 
 ## Authors
 
