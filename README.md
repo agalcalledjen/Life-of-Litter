@@ -11,7 +11,7 @@ A responsive web-based game about the life of litter.
 
 ## Inspiration
 
-We wanted everyone to know exactly where things go when they are thrown away, and how to make the earch a cleaner place by recycling. 
+We wanted everyone to know exactly where litter goes when it's thrown away, and how to make the earth a cleaner place by recycling. 
 - What's the benefit of recycling? 
 - How long do things sit in a landfill before decomposing? 
 
