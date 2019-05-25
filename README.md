@@ -1,6 +1,6 @@
 # Life of Litter 🥫🍌🥛📰🥡
 
-A web-based game about the life of litter.
+A responsive web-based game about the life of litter.
 
 ---
 ---
