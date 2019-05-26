@@ -2,10 +2,9 @@
 
 A web-based game about the life of litter.
 
----
 ![Image of Life of Litter Homepage](https://github.com/agalcalledjen/Life-of-Litter/blob/master/public/lifeoflitter.png)
 ![Video of Life of Litter](https://github.com/agalcalledjen/Life-of-Litter/blob/master/public/lifeoflitter.gif)
----
+
 
 ## Hackathon
 
