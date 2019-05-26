@@ -3,6 +3,8 @@
 A web-based game about the life of litter.
 
 ---
+![Image of Life of Litter Homepage](https://github.com/agalcalledjen/Life-of-Litter/blob/master/public/lifeoflitter.png)
+![Video of Life of Litter](https://github.com/agalcalledjen/Life-of-Litter/blob/master/public/lifeoflitter.gif)
 ---
 
 **[Hacking for Humanity](https://gitvan2019.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover)** was a 2-day code-a-thon where participants, entrepreneurs, educators, and mentors worked together to build apps that solve social problems.
